@@ -24,3 +24,6 @@ public/img/foils/
 *.njsproj
 *.sln
 *.sw?
+
+#yarn
+yarn.lock
